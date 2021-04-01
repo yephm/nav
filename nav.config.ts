@@ -26,12 +26,12 @@ const c: IConfig = {
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
 
   // 默认主题: Light | Sim | Side | App
-  theme: 'Light',
+  theme: 'Side',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>
+    <div>Copyright © 2021-2031 yephm, All Rights Reserved</div>
   `,
 
   // 百度统计地址
